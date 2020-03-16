@@ -11,4 +11,9 @@
     <PackageReference Include="RavenDB.Client" Version="4.2.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Factories\" />
+  </ItemGroup>
 </Project>
